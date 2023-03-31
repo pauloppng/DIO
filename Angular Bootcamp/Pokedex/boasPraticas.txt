@@ -1,0 +1,6 @@
+- A técnica de começar o projeto do site pelo mobile facilita o código, 
+pois não será necessário muita reescrita depois. Essa técnica é conhecida
+como "Mobile frist".
+
+- A propriedade css "box-sizing: border-box;" serve para padronizar as bordas,
+caso contrario seria necessário calculos.
